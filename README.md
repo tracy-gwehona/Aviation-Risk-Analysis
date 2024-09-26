@@ -68,3 +68,5 @@ If interested in a number of options, consider the following makes:
 ## Interactive Dashboard
 
 The interactive dashboard is a collection of views that allows the viewer to change the views to understand different features in the data. Here is a link to my interactive dashboard [Tableau Dashboard](https://public.tableau.com/app/profile/tracy.gwehona/viz/AviationAccidentsNTSB1948-2022/AviationInjuriesDashboard)
+
+
